@@ -1,1 +1,1 @@
-# react_net_otus
+# Домашнее задание "React and NET" - один хост
